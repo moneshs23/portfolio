@@ -85,7 +85,7 @@ function Hero(){
           color:'rgba(0,245,255,0.9)', fontSize:'0.78rem', fontWeight:600,
           letterSpacing:'2px', textTransform:'uppercase', marginBottom:'1.5rem',
           fontFamily:'var(--font-mono)',
-        }}>SRMIST · Chennai · B.Tech CS (Data Science) · 2027</div>
+        }}>SRMIST · Chennai · B.Tech CSE(Data Science) · 2027</div>
         <h1 style={{
           fontSize:'clamp(3.2rem,7vw,5.5rem)', fontWeight:900, letterSpacing:'-2px',
           background:'linear-gradient(135deg,#ffffff 0%,#a0d8ff 40%,#c084fc 70%,#f472b6 100%)',
@@ -104,7 +104,7 @@ function Hero(){
           </span>
         </p>
         <div style={{display:'flex',gap:'0.75rem',justifyContent:'center',flexWrap:'wrap',marginBottom:'2.5rem'}}>
-          {[['⚗️ QML Researcher','#00f5ff'],['🚀 Founder','#a855f7'],['👁️ Computer Vision','#ff2d9d'],['🧠 Deep Learning','#00ff88']].map(([l,c])=>(
+          {[['📊 Data Analyst','#00f5ff'],['🚀 Founder','#a855f7'],['👁️ Computer Vision','#ff2d9d'],['🧠 Deep Learning','#00ff88']].map(([l,c])=>(
             <span key={l} style={{
               padding:'0.4rem 1.1rem', borderRadius:'999px', fontSize:'0.82rem', fontWeight:600,
               border:`1.5px solid ${c}55`, color:c, background:`${c}0e`,
@@ -160,7 +160,7 @@ function About(){
         <div className="about-info">
           <h2>Hi, I'm <span className="grad-cyan">Monesh S</span></h2>
           <p>
-            A B.Tech Computer Science (Data Science & Business Systems) student at <strong>SRM Institute of Science & Technology</strong>, Chennai — expected May 2027. I build AI systems that matter: from Quantum ML classifiers and hybrid deep learning models to RAG pipelines and computer vision apps — while also running the <strong>MORIG Dance Judging System</strong> as its founder.
+            A B.Tech CSE(Data Science) student at <strong>SRM Institute of Science & Technology</strong>, Chennai — expected May 2027. I build AI systems that matter: from Quantum ML classifiers and hybrid deep learning models to RAG pipelines and computer vision apps — while also running the <strong>MORIG Dance Judging System</strong> as its founder.
           </p>
           <div className="about-meta">
             {[
@@ -411,7 +411,7 @@ function Footer(){
           <a key={l.href} href={l.href} className="footer-link" target="_blank" rel="noreferrer">{l.label}</a>
         ))}
       </div>
-      <p>© 2026 Monesh S · B.Tech CS (Data Science) · SRMIST Chennai · Researcher · Founder · Analyst</p>
+      <p>© 2026 Monesh S · B.Tech CSE(Data Science) · SRMIST Chennai · Researcher · Founder · Analyst</p>
     </footer>
   );
 }

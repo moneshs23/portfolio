@@ -42,4 +42,4 @@ A professional, high-performance interactive portfolio showcasing my work as an 
    ```
 
 ---
-*B.Tech CS (Data Science & Business Systems) student at SRM Institute of Science & Technology — Expected May 2027.*
+*B.Tech CSE(Data Science) student at SRM Institute of Science & Technology — Expected May 2027.*

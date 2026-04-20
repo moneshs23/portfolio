@@ -5,8 +5,7 @@ const COMMANDS = {
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
   EDUCATION
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  🎓 Degree    : B.Tech — Computer Science Engineering
-                 (Data Science & Business Systems)
+  🎓 Degree    : B.Tech — CSE(Data Science)
   🏛️  Institute : SRM Institute of Science & Technology
   📍 Location  : Chennai, India
   📅 Expected  : May 2027
@@ -133,7 +132,7 @@ export default function Terminal() {
   const [lines, setLines] = useState([
     {type:'info', text:'╔══════════════════════════════════════════════╗'},
     {type:'info', text:'║  Monesh S — Interactive Portfolio Terminal   ║'},
-    {type:'info', text:'║  B.Tech CS (Data Science) · SRMIST · 2027   ║'},
+    {type:'info', text:'║  B.Tech CSE(Data Science) · SRMIST · 2027   ║'},
     {type:'info', text:'╚══════════════════════════════════════════════╝'},
     {type:'info', text:''},
     {type:'info', text:'Type "help" to see all available commands.'},
