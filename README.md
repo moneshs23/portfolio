@@ -1,10 +1,13 @@
-# Monesh S — Portfolio
+<div align="center">
+  <h1>Monesh S — AI Researcher & Founder</h1>
+  
+  <h3>
+    🌐 Live Website: <a href="https://moneshs.netlify.app/">moneshs.netlify.app</a>
+  </h3>
+  <br />
+</div>
 
-> 🌐 **Live Website:** [moneshs.netlify.app](https://moneshs.netlify.app/)
-
-A professional, high-performance interactive portfolio showcasing my work as an AI Researcher and Founder. 
-
-Built at the intersection of **Quantum Machine Learning**, **Deep Learning**, **Computer Vision**, and **Art**.
+A professional, high-performance interactive portfolio showcasing my work as an AI Researcher and Founder. Built at the intersection of **Quantum Machine Learning**, **Deep Learning**, **Computer Vision**, and **Art**.
 
 ## 🚀 Tech Stack
 
