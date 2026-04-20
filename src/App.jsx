@@ -96,7 +96,7 @@ function Hero(){
           fontSize:'clamp(1.05rem,2vw,1.3rem)', color:'rgba(230,230,255,0.88)',
           lineHeight:1.65, marginBottom:'2rem', fontWeight:400,
         }}>
-          AI Researcher · Founder of Morig Dance Company<br/>
+          AI Researcher · Founder of MORIG Dance Judging System<br/>
           <span style={{color:'rgba(180,180,220,0.7)',fontSize:'0.95em'}}>
             Building systems at the intersection of <strong style={{color:'#7dd3fc'}}>Deep Learning</strong>,{' '}
             <strong style={{color:'#c084fc'}}>Quantum ML</strong> &amp;{' '}
@@ -160,7 +160,7 @@ function About(){
         <div className="about-info">
           <h2>Hi, I'm <span className="grad-cyan">Monesh S</span></h2>
           <p>
-            A B.Tech Computer Science (Data Science & Business Systems) student at <strong>SRM Institute of Science & Technology</strong>, Chennai — expected May 2027. I build AI systems that matter: from Quantum ML classifiers and hybrid deep learning models to RAG pipelines and computer vision apps — while also running <strong>Morig Dance Company</strong> as its founder.
+            A B.Tech Computer Science (Data Science & Business Systems) student at <strong>SRM Institute of Science & Technology</strong>, Chennai — expected May 2027. I build AI systems that matter: from Quantum ML classifiers and hybrid deep learning models to RAG pipelines and computer vision apps — while also running the <strong>MORIG Dance Judging System</strong> as its founder.
           </p>
           <div className="about-meta">
             {[
@@ -422,15 +422,15 @@ function Dance(){
     <section className="section bg-surface" id="dance" data-section="hero" style={{padding:'4rem 0',borderTop:'1px solid var(--dark-border)'}}>
       <div className="section-wrap" style={{display:'flex',flexWrap:'wrap',gap:'3rem',alignItems:'center'}}>
         <div className="anim-fade-up" style={{flex:'1 1 400px'}}>
-          <span className="section-badge badge-purple">🎭 Morig Dance Company</span>
+          <span className="section-badge badge-purple">🎭 MORIG AI</span>
           <h2 className="section-title">Bridging <span className="grad-purple">Art & Tech</span></h2>
           <p style={{color:'var(--text-secondary)',fontSize:'1.05rem',lineHeight:1.7,marginBottom:'1.5rem'}}>
-            As the Founder of Morig Dance Company, I explore the intersection of human movement and artificial intelligence. My work involves designing AI systems that can understand, analyze, and grade complex dance choreography with high precision.
+            As the Founder of the MORIG Dance Judging System, I explore the intersection of human movement and artificial intelligence. My work involves designing AI systems that can understand, analyze, and grade complex dance choreography with high precision.
           </p>
           <ul style={{listStyle:'none',color:'var(--text-secondary)',fontSize:'0.9rem',lineHeight:1.6}}>
-            <li style={{marginBottom:'0.5rem'}}><span style={{color:'var(--purple)'}}>▹</span> <strong>Choreography & Direction</strong> – Creating compelling performances.</li>
+            <li style={{marginBottom:'0.5rem'}}><span style={{color:'var(--purple)'}}>▹</span> <strong>Computer Vision</strong> – Real-time 33-keypoint tracking via MediaPipe.</li>
             <li style={{marginBottom:'0.5rem'}}><span style={{color:'var(--purple)'}}>▹</span> <strong>AI Integration</strong> – Building the MORIG AI Dance Judging System.</li>
-            <li style={{marginBottom:'0.5rem'}}><span style={{color:'var(--purple)'}}>▹</span> <strong>Leadership</strong> – Managing creative teams and logistics.</li>
+            <li style={{marginBottom:'0.5rem'}}><span style={{color:'var(--purple)'}}>▹</span> <strong>Actionable Analytics</strong> – Translating raw joint data into Musicality and Energy scores.</li>
           </ul>
         </div>
         <div className="anim-fade-up delay-1" style={{flex:'1 1 400px'}}>
