@@ -279,6 +279,8 @@ function Lab(){
 /* ── Experience ── */
 function Experience(){
   const jobs=[
+    {org:'Kynhood',role:'Content Creator',period:'Jul 2023 – Mar 2026 · 2 yrs 9 mos · Chennai, Tamil Nadu, India · Hybrid · Full-time',color:'#ff2d9d',
+     bullets:['As a Content Creator & Influencer at KYN, explored local culture, food, and hidden gems, capturing and editing engaging videos and photos to share authentic stories and connect with the community','Skilled in Social Media Communications, Creative Content Creation, and 5+ additional competencies']},
     {org:'ACM SIGAPP Chapter, SRMIST',role:'Research & Development Member',period:'September 2025 – Present · Chennai, India',color:'#00f5ff',
      bullets:['Explore emerging technologies, analyse data, develop innovative solutions to improve products and processes','Design and test prototypes, collaborate with cross-functional teams, transform research into impactful outcomes','Stay updated with industry advancements and contribute to applied AI research']},
     {org:'Data Science Club, SRMIST',role:'Non-Tech Head',period:'September 2025 – Present · Chennai, India',color:'#a855f7',
